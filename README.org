@@ -4,6 +4,6 @@ A fast non-blocking HTTP server on top of libev
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/fukamachi/woo.git |
-| commit  | c839148                                  |
+| commit  | 7f5219c                                  |
 | systems | woo                                      |
 |---------+------------------------------------------|
